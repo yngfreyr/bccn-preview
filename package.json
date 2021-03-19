@@ -15,7 +15,7 @@
     "styled-components": "^5.2.1",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://yungrari.github.io",
+  "homepage": "https://yungrari.github.io/bccn-preview",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

@@ -59,13 +59,13 @@ export default function App() {
     perspective: 2000
   }
   const links = [
-    '/images/1615463949855.png',
-    '/images/1615464000408.png',
-    '/images/1615464009818.png',
-    '/images/1615464101710.png',
-    '/images/1615464109058.png',
-    '/images/1615464114780.png',
-    '/images/1615469250791.png'
+    '/images/001.png',
+    '/images/002.png',
+    '/images/003.png',
+    '/images/004.png',
+    '/images/005.png',
+    '/images/006.png',
+    '/images/007.png'
   ]
 
   return (
