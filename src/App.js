@@ -59,13 +59,13 @@ export default function App() {
     perspective: 2000
   }
   const links = [
-    '/images/001.png',
-    '/images/002.png',
-    '/images/003.png',
-    '/images/004.png',
-    '/images/005.png',
-    '/images/006.png',
-    '/images/007.png'
+    'https://crudcarouselapp.s3.eu-central-1.amazonaws.com/1615469250791',
+    'https://crudcarouselapp.s3.eu-central-1.amazonaws.com/1615464114780',
+    'https://crudcarouselapp.s3.eu-central-1.amazonaws.com/1615464109058',
+    'https://crudcarouselapp.s3.eu-central-1.amazonaws.com/1615464101710',
+    'https://crudcarouselapp.s3.eu-central-1.amazonaws.com/1615464009818',
+    'https://crudcarouselapp.s3.eu-central-1.amazonaws.com/1615464000408',
+    'https://crudcarouselapp.s3.eu-central-1.amazonaws.com/1615463983738'
   ]
 
   return (
